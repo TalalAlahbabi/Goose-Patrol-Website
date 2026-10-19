@@ -8,7 +8,7 @@ The website gives access to our project documents, game download, and source cod
 
 # Website URL:
 
-[Goose Patrol website 🪿](https://talalalahbabi.github.io/Goose-Patrol-Website/)
+[Goose Patrol 🪿](https://talalalahbabi.github.io/Goose-Patrol-Website/)
 
 # Project Files
 
