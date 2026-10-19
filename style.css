@@ -1,0 +1,130 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+}
+
+header {
+    background-color: #dceef0;
+    padding: 20px;
+    text-align: center;
+}
+
+header h2 {
+    margin: 10px;
+}
+
+.header-affiliation p {
+    font-size: 14px;
+}
+
+.university-logo {
+    width: 150px;
+    height: auto;
+}
+
+.welcome {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.welcome h1 {
+    font-size: 36px;
+}
+
+.button {
+    display: inline-block;
+    background-color: #f7d77b;
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: #f2cb5b;
+}
+
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.files {
+    margin-top: 20px;
+}
+
+.card {
+    display: block;
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 10px;
+    color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.card h3 {
+    margin: 0;
+}
+
+.card p {
+    margin-bottom: 0;
+    font-size: 14px;
+    color: #666;
+}
+
+/* Different colours for the files */
+
+.card:nth-child(1) {
+    background-color: #fff0b3;
+}
+
+.card:nth-child(2) {
+    background-color: #ffd9c7;
+}
+
+.card:nth-child(3) {
+    background-color: #e4d9ff;
+}
+
+.card:nth-child(4) {
+    background-color: #ffdce5;
+}
+
+.card:nth-child(5) {
+    background-color: #d5efff;
+}
+
+.card:hover {
+    background-color: #d8ebd5;
+}
+
+.source {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #e8f1e8;
+}
+
+.github-button {
+    display: inline-block;
+    background-color: #a8d5ba;
+    color: #294d43;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.github-button:hover {
+    background-color: #8bc6a3;
+}
+
+footer {
+    background-color: #dceef0;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
