@@ -1,4 +1,4 @@
-# Goose-Patrol-Website
+# Goose-Patrol-Website 🪿
 
 This is the website for Goose Patrol, a game developed by ENG1 Group 5 at the University of York.
 
