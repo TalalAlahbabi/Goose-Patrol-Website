@@ -20,4 +20,4 @@ https://talalalahbabi.github.io/Goose-Patrol-Website/
 
 # Source Code
 
-The game source code is available in our team repository.
+The game source code is available in our [team repository](https://github.com/kassgrzelak/goose-patrol).
