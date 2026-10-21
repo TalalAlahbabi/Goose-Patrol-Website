@@ -103,6 +103,20 @@ main {
     background-color: #d8ebd5;
 }
 
+.project-planning {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #E2E8FA;
+}
+.planning-link {
+    display: inline-block;
+    background-color: #A9D0F5;
+    color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
 .source {
     margin-top: 30px;
     padding: 20px;
