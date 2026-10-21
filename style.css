@@ -77,8 +77,6 @@ main {
     color: #666;
 }
 
-/* Different colours for the files */
-
 .card:nth-child(1) {
     background-color: #fff0b3;
 }
