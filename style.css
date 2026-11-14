@@ -140,3 +140,11 @@ footer {
     padding: 15px;
     margin-top: 30px;
 }
+.architecture-diagrams {
+    background-color: #F0EBFF;
+    border-left: 4px solid #B5A4E8;
+}
+
+.architecture-diagrams:hover {
+    background-color: #E4DAFF;
+}
