@@ -97,6 +97,10 @@ main {
     background-color: #d5efff;
 }
 
+.card:nth-child(6) {
+    background-color: #fff0b3;
+}
+
 .card:hover {
     background-color: #d8ebd5;
 }
