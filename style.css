@@ -77,8 +77,9 @@ main {
     color: #666;
 }
 
+
 .card:nth-child(1) {
-    background-color: #fff0b3;
+    background-color: #d8ebd5;
 }
 
 .card:nth-child(2) {
@@ -143,12 +144,4 @@ footer {
     text-align: center;
     padding: 15px;
     margin-top: 30px;
-}
-.architecture-diagrams {
-    background-color: #F0EBFF;
-    border-left: 4px solid #B5A4E8;
-}
-
-.architecture-diagrams:hover {
-    background-color: #E4DAFF;
 }
