@@ -12,14 +12,6 @@ header {
     text-align: center;
 }
 
-header h2 {
-    margin: 10px;
-}
-
-.header-affiliation p {
-    font-size: 14px;
-}
-
 .university-logo {
     width: 150px;
     height: auto;
@@ -71,13 +63,6 @@ main {
     margin: 0;
 }
 
-.card p {
-    margin-bottom: 0;
-    font-size: 14px;
-    color: #666;
-}
-
-
 .card:nth-child(1) {
     background-color: #d8ebd5;
 }
@@ -104,20 +89,6 @@ main {
 
 .card:hover {
     background-color: #d8ebd5;
-}
-
-.project-planning {
-    margin-top: 30px;
-    padding: 20px;
-    background-color: #E2E8FA;
-}
-.planning-link {
-    display: inline-block;
-    background-color: #A9D0F5;
-    color: #000;
-    padding: 10px 20px;
-    border-radius: 5px;
-    text-decoration: none;
 }
 
 .source {
